@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 // Para usar las librerias de Composer necesitamos requerir
 // el autoload de composer que hace carga automatica de todo
