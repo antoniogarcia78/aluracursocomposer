@@ -47,5 +47,8 @@
   "scripts-descriptions": {
     "check": "Ejecuta PHAN->PHPCS->PHPUNIT"
   },
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "bin": [
+    "buscarcursos.php"
+  ]
 }
